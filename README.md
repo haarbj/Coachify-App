@@ -72,22 +72,23 @@ Coachify is a specialized running app designed to facilitate communication betwe
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Home/Dashboard
+* Training Plans
+* Messages/Communication
+* Settings/Profile
 
 **Flow Navigation** (Screen to Screen)
 
-- [x] Login/Register Screen
+- [ ] Login/Register Screen
 * => Home/Dashboard
 
-- [x] Run Logging Screen
+- [ ] Run Logging Screen
 * => Home/Dashboard
 
 - [ ] Training Plans Screen
 * => Home/Dashboard
 
-- [x] Home/Dashboard Screen
+- [ ] Home/Dashboard Screen
 * => Run Logging Screen
 * => Training Plans Screen
 * => Messages/Communication Screen
@@ -106,7 +107,7 @@ Coachify is a specialized running app designed to facilitate communication betwe
 ## Wireframes
 
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="../coachifyWireframes.heic" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
