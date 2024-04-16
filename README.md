@@ -27,22 +27,46 @@ Coachify is a specialized running app designed to facilitate communication betwe
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* Run logging: Runners must be able to log their runs, including distance, duration, pace, and any additional notes.
+* Personalized training plans: Users should be able to access and look at customized training plans tailored to their goals and abilities.
+* User registration: Coaches and runners should be able to create a new account on Coachify.
+* User authentication: Users should be able to securely log in to their Coachify accounts.
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* Run route mapping: Runners can map out their running routes using GPS tracking within the app.
+* Weather integration: The app can integrate weather forecasts to provide runners with real-time weather conditions during their runs.
+* Wearable device compatibility: Coachify can sync with popular fitness trackers and wearable devices to collect additional data, such as heart rate and cadence.
+* Social sharing: Runners can share their runs, achievements, and progress on social media platforms directly from the app.
+* Group challenges: The app can facilitate group challenges and competitions to motivate runners and foster a sense of community.
+* Training resources: Coachify can provide access to training articles, videos, and resources to help runners improve their performance and knowledge.
+* Goal setting: Runners can set specific goals and targets within the app, with progress tracking and reminders to keep them on track.
+* Performance comparisons: The app can allow runners to compare their performance with other users or benchmark standards.
+* In-app purchases: Coachify can offer premium features or additional coaching services through in-app purchases or subscriptions.
+* Data synchronization: The app should sync data between devices to ensure a seamless user experience.
+* Coach-runner communication: Coaches and runners should be able to exchange messages, share feedback, and discuss training plans within the app.
+* Performance analysis: Coaches should have access to detailed analytics and performance metrics for each runner.
+* Personalized training plans: Coaches should be able to create and assign customized training plans tailored to each runner's goals and abilities.
+* Notification system: The app should notify users of important updates, messages from coaches, and upcoming training sessions.
 
 ### 2. Screen Archetypes
 
-- [ ] [list first screen here]
-* [list associated required story here]
-* ...
-list second screen here]
-* [list associated required story here]
-* ...
+- [ ] Login/Register
+* User authentication: Users should be able to securely log in to their Coachify accounts.
+* User registration: Coaches and runners should be able to create a new account on Coachify.
+
+- [ ] Run Logging
+* Run logging: Runners must be able to log their runs, including distance, duration, pace, and any additional notes.
+
+- [ ] Training Plans
+* Personalized training plans: Users should be able to access and look at customized training plans tailored to their goals and abilities.
+* Personalized training plans: Coaches should be able to create and assign customized training plans tailored to each runner's goals and abilities.
+
+- [ ] Dashboard/Home
+* Data synchronization: The app should sync data between devices to ensure a seamless user experience.
+* Coach-runner communication: Coaches and runners should be able to exchange messages, share feedback, and discuss training plans within the app.
+* Performance analysis: Coaches should have access to detailed analytics and performance metrics for each runner.
+* Notification system: The app should notify users of important updates, messages from coaches, and upcoming training sessions.
 
 ### 3. Navigation
 
@@ -54,12 +78,30 @@ list second screen here]
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] [list first screen here]
-* [list screen navigation here]
-* ...
-- [ ] [list second screen here]
-* [list screen navigation here]
-* ...
+- [x] Login/Register Screen
+* => Home/Dashboard
+
+- [x] Run Logging Screen
+* => Home/Dashboard
+
+- [ ] Training Plans Screen
+* => Home/Dashboard
+
+- [x] Home/Dashboard Screen
+* => Run Logging Screen
+* => Training Plans Screen
+* => Messages/Communication Screen
+* => Settings/Profile Screen
+
+- [ ] Messages/Communication Screen
+* => Individual Chat Screen
+* => Settings/Profile Screen
+
+- [ ] Settings/Profile Screen
+* => Edit Profile Screen
+* => Notification Settings Screen
+* => Account Settings Screen
+* => Logout
 
 ## Wireframes
 
