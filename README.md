@@ -106,7 +106,7 @@ Coachify is a specialized running app designed to facilitate communication betwe
 
 ## Wireframes
 
-<img src="coachifyWireframes.heic" width=600>
+<img src="ss.png" width=600>
 
 ## App So Far
 
