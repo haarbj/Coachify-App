@@ -108,9 +108,9 @@ Coachify is a specialized running app designed to facilitate communication betwe
 
 <img src="coachifyWireframes.heic" width=600>
 
-### App So Far
+## App So Far
 
-## Video Walkthrough
+### Video Walkthrough
 
 <div>
     </a>
@@ -119,7 +119,7 @@ Coachify is a specialized running app designed to facilitate communication betwe
     </a>
   </div>
 
-## Notes
+### Notes
 
 The login page navigation was very hard to figure out. Making sure the back button only appeared if the user should have the option to go back was a challenge. Also making sure that the UI/UX looked good took a lot of time. I spent about 10 hours on that alone for a total of about 20 hours. Next up is the page to view logged runs/log runs.
 
