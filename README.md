@@ -51,7 +51,7 @@ Coachify is a specialized running app designed to facilitate communication betwe
 
 ### 2. Screen Archetypes
 
-- [ ] Login/Register
+- [X] Login/Register
 * User authentication: Users should be able to securely log in to their Coachify accounts.
 * User registration: Coaches and runners should be able to create a new account on Coachify.
 
@@ -79,7 +79,7 @@ Coachify is a specialized running app designed to facilitate communication betwe
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] Login/Register Screen
+- [X] Login/Register Screen
 * => Home/Dashboard
 
 - [ ] Run Logging Screen
@@ -107,6 +107,21 @@ Coachify is a specialized running app designed to facilitate communication betwe
 ## Wireframes
 
 <img src="coachifyWireframes.heic" width=600>
+
+### App So Far
+
+## Video Walkthrough
+
+<div>
+    </a>
+    <a href="https://www.loom.com/share/89cde84a388c4b59a2aa1990e33fd518">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/89cde84a388c4b59a2aa1990e33fd518-with-play.gif">
+    </a>
+  </div>
+
+## Notes
+
+The login page navigation was very hard to figure out. Making sure the back button only appeared if the user should have the option to go back was a challenge. Also making sure that the UI/UX looked good took a lot of time. I spent about 10 hours on that alone for a total of about 20 hours. Next up is the page to view logged runs/log runs.
 
 ### [BONUS] Digital Wireframes & Mockups
 
