@@ -55,14 +55,14 @@ Coachify is a specialized running app designed to facilitate communication betwe
 * User authentication: Users should be able to securely log in to their Coachify accounts.
 * User registration: Coaches and runners should be able to create a new account on Coachify.
 
-- [ ] Run Logging
+- [X] Run Logging
 * Run logging: Runners must be able to log their runs, including distance, duration, pace, and any additional notes.
 
 - [ ] Training Plans
 * Personalized training plans: Users should be able to access and look at customized training plans tailored to their goals and abilities.
 * Personalized training plans: Coaches should be able to create and assign customized training plans tailored to each runner's goals and abilities.
 
-- [ ] Dashboard/Home
+- [X] Dashboard/Home
 * Data synchronization: The app should sync data between devices to ensure a seamless user experience.
 * Coach-runner communication: Coaches and runners should be able to exchange messages, share feedback, and discuss training plans within the app.
 * Performance analysis: Coaches should have access to detailed analytics and performance metrics for each runner.
@@ -82,13 +82,13 @@ Coachify is a specialized running app designed to facilitate communication betwe
 - [X] Login/Register Screen
 * => Home/Dashboard
 
-- [ ] Run Logging Screen
+- [X] Run Logging Screen
 * => Home/Dashboard
 
 - [ ] Training Plans Screen
 * => Home/Dashboard
 
-- [ ] Home/Dashboard Screen
+- [X] Home/Dashboard Screen
 * => Run Logging Screen
 * => Training Plans Screen
 * => Messages/Communication Screen
@@ -113,6 +113,12 @@ Coachify is a specialized running app designed to facilitate communication betwe
 ### Video Walkthrough
 
 <div>
+    <a href="https://www.loom.com/share/85632e174ca342189d52debfce0c2648">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/85632e174ca342189d52debfce0c2648-with-play.gif">
+    </a>
+  </div>
+
+<div>
     </a>
     <a href="https://www.loom.com/share/89cde84a388c4b59a2aa1990e33fd518">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/89cde84a388c4b59a2aa1990e33fd518-with-play.gif">
@@ -121,11 +127,9 @@ Coachify is a specialized running app designed to facilitate communication betwe
 
 ### Notes
 
+The activity page has been tough. I still have to fix the layout of everything and then make the add button work so it keeps the data in-app. I think it has been going pretty well though so far.
+
 The login page navigation was very hard to figure out. Making sure the back button only appeared if the user should have the option to go back was a challenge. Also making sure that the UI/UX looked good took a lot of time. I spent about 10 hours on that alone for a total of about 20 hours. Next up is the page to view logged runs/log runs.
-
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
 
 ## Schema 
 
