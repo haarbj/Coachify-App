@@ -113,6 +113,12 @@ Coachify is a specialized running app designed to facilitate communication betwe
 ### Video Walkthrough
 
 <div>
+    <a href="https://www.loom.com/share/ac3b0e83d82949128056848a007a6145">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ac3b0e83d82949128056848a007a6145-with-play.gif">
+    </a>
+  </div>
+
+<div>
     <a href="https://www.loom.com/share/85632e174ca342189d52debfce0c2648">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/85632e174ca342189d52debfce0c2648-with-play.gif">
     </a>
@@ -126,21 +132,8 @@ Coachify is a specialized running app designed to facilitate communication betwe
   </div>
 
 ### Notes
+Finally got the layout to look right and now made the add activity page with adjustable scrolls (pickerViews). Wasn't everything I was hoping to complete by now but definitely a good start. I will 100% continue to work on this project after the course concludes.
 
 The activity page has been tough. I still have to fix the layout of everything and then make the add button work so it keeps the data in-app. I think it has been going pretty well though so far.
 
 The login page navigation was very hard to figure out. Making sure the back button only appeared if the user should have the option to go back was a challenge. Also making sure that the UI/UX looked good took a lot of time. I spent about 10 hours on that alone for a total of about 20 hours. Next up is the page to view logged runs/log runs.
-
-## Schema 
-
-[This section will be completed in Unit 9]
-
-### Models
-
-[Add table of models]
-
-### Networking
-
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
